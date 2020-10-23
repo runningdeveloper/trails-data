@@ -14,6 +14,6 @@ Please star the repo!
 
 ### Gauteng
 
-- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking) 
+- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
 - Add another
 
