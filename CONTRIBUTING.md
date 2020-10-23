@@ -9,7 +9,7 @@ Yay thanks for contributing! We will use the allcontributors bot to add you to t
 - Add an issue to say you doing the trail so that other people do it too
 - Follow the guide below for submitting a pull request
 
-## Editing a trial
+## Editing a trail
 
 - I guess follow the steps below to submit a pull request to edit the trail
 
@@ -21,7 +21,7 @@ Yay thanks for contributing! We will use the allcontributors bot to add you to t
 
 1. [Fork](https://github.com/runningdeveloper/trails-data/fork) and clone the repository
 2. Create a new branch: `git checkout -b my-branch-name`
-3. Create a new `trail-name.md` (no spaces) document in `trials` folder under the correct province.
+3. Create a new `trail-name.md` (no spaces) document in `trails` folder under the correct province.
 4. Look at the [template.md](template.md) document for a guide on how to layout the information. Or see the existing trails for a guide.
 5. Add the link to your trail in the [template.md](template.md) document
 6. Commit your change
