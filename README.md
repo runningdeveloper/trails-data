@@ -17,3 +17,8 @@ Please star the repo!
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
 - Add another
 
+### Mpumalanga
+
+- [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking) 
+- Add another
+

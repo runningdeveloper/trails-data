@@ -23,3 +23,5 @@ There are 4 routes ranging from 0.5 to 3.5 km. There is a trail for everyone her
 
 Look out for the dam and the wonderful views from the top of the hill. Also there is an old mine in the reserve but it's closed off.
 
+No dogs allowed.
+
