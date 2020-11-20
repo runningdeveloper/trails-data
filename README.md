@@ -1,4 +1,7 @@
 # Trails in SA
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The idea here is to collect a bunch of different trails to walk, cycle and run in South Africa. I'm based in JHB so trails will probably be mostly near me. Might end up making a website in future, so collecting trails in Markdown files. See below for a rough index of the trails.
 
@@ -22,3 +25,22 @@ Please star the repo!
 - [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking) 
 - Add another
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Fruitymo"><img src="https://avatars1.githubusercontent.com/u/6312647?v=4" width="100px;" alt=""/><br /><sub><b>Lebogang Madise</b></sub></a><br /><a href="#content-Fruitymo" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
