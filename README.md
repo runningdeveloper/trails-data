@@ -25,6 +25,10 @@ Please star the repo!
 - [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking) 
 - Add another
 
+### Western Cape
+
+- [Lions Head](trails/western-cape/lions-head.md) (Running, Walking, Hiking) 
+- Add another
 
 ## Contributors ✨
 

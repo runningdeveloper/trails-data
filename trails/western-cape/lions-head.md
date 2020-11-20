@@ -5,8 +5,8 @@ activity:
   - running
   - walking
   - hiking
-link: https://kloofendalfriends.yolasite.com/
-location: https://www.google.com/maps/place/Lion's+Head/@-33.9350358,18.3714613,14z/data=!3m1!4b1!4m5!3m4!1s0x1dcc6705adf437ed:0x482833296b600211!8m2!3d-33.9350375!4d18.3889709?hl=en 
+link: https://hikelionshead.co.za
+location: https://goo.gl/maps/act5iy8qjJZvTYEx8
 cost: free
 routes: 
 https://hikelionshead.co.za/lions-head-trail-map/
