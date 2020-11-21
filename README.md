@@ -18,6 +18,7 @@ Please star the repo!
 ### Gauteng
 
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
+- [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
 - Add another
 
 ### Mpumalanga
