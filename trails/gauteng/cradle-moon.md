@@ -6,6 +6,7 @@ activity:
   - walking
   - cycling
   - swimming
+  - hiking
 link: https://www.cradlemoon.co.za/
 location: https://goo.gl/maps/GPMvbRrxmhTbM1LJA
 cost: Not Free
