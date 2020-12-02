@@ -19,6 +19,7 @@ Please star the repo!
 
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
 - [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
+- [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Cycling, Swimming)
 - Add another
 
 ### Mpumalanga
