@@ -18,9 +18,12 @@ Please star the repo!
 ### Gauteng
 
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
-- [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Hiking, Cycling)
+- [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
 - [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
 - Add another
+
+### KwaZulu-Natal
+- [Giba Gorge](trails/kwazulu-natal/giba-gorge.md) (Running, Walking, Hiking, Cycling)
 
 ### Mpumalanga
 
