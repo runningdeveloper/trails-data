@@ -23,7 +23,9 @@ Please star the repo!
 - Add another
 
 ### KwaZulu-Natal
+
 - [Giba Gorge](trails/kwazulu-natal/giba-gorge.md) (Running, Walking, Hiking, Cycling)
+- Add another
 
 ### Mpumalanga
 
