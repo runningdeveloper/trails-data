@@ -17,9 +17,10 @@ Please star the repo!
 
 ### Gauteng
 
+- [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
+- [Kings Kloof](trails/gauteng/kings-kloof.md) (Running, Walking, Cycling)
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
 - [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
-- [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
 - Add another
 
 ### KwaZulu-Natal
