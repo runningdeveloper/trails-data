@@ -1,6 +1,6 @@
 ---
 trailName: Kings Kloof
-date: 2/12/2020
+date: 14/12/2020
 activity:
   - running
   - walking
