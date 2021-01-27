@@ -21,6 +21,7 @@ Please star the repo!
 - [Kings Kloof](trails/gauteng/kings-kloof.md) (Running, Walking, Cycling)
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
 - [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
+- [Van Gaalen](trails/gauteng/van-gaalen.md) (Running, Walking, Hiking, Cycling)
 - Add another
 
 ### KwaZulu-Natal
