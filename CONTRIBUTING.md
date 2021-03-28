@@ -26,10 +26,10 @@ Yay thanks for contributing! We will use the all contributors bot to add you to 
 5. Add the link to your trail in the [template.md](template.md) document
 6. Commit your change
 
-```bash
-  git add *
-  git commit -m "Commit message"
-```
+    ```bash
+      git add *
+      git commit -m "Commit message"
+    ```
 
 7. Push to your fork and [submit a pull request](https://github.com/runningdeveloper/trails-data/compare)
 8. Pat your self on the back and wait for your pull request to be reviewed and merged.
@@ -40,10 +40,10 @@ Yay thanks for contributing! We will use the all contributors bot to add you to 
 2. [Fork](https://github.com/runningdeveloper/where-work-sa/fork) and clone the repository.
 3. Commit your change
 
-```bash
-  git add *
-  git commit -m "Commit message"
-```
+    ```bash
+      git add *
+      git commit -m "Commit message"
+    ```
 
 4. Push to your fork and [submit a pull request](https://github.com/runningdeveloper/where-work-sa/compare)
 5. Pat your self on the back and wait for your pull request to be reviewed and merged.
