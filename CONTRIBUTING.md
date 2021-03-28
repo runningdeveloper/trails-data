@@ -17,7 +17,7 @@ Yay thanks for contributing! We will use the all contributors bot to add you to 
 
 - Checkout the issues for open things. Drop a comment in the issues if you have an idea you want to add.
 
-# Submitting a pull request to add a trail
+## Submitting a pull request to add a trail
 
 1. [Fork](https://github.com/runningdeveloper/trails-data/fork) and clone the repository
 2. Create a new branch: `git checkout -b my-branch-name`
