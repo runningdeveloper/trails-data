@@ -1,11 +1,11 @@
 # Contribution Guidelines
 
-Yay thanks for contributing! We will use the all contributors bot to add you to the project attributions and on a website if we ever make one. 
+Yay thanks for contributing! We will use the all contributors bot to add you to the project attributions and on a website if we ever make one.
 
 ## Adding a trail
 
 - Check to see that the trail doesn't already exist
-- Check the issues tab to see if someone else is not already adding the trail 
+- Check the issues tab to see if someone else is not already adding the trail
 - Add an issue to say you doing the trail so that other people do it too
 - Follow the guide below for submitting a pull request
 
@@ -26,7 +26,7 @@ Yay thanks for contributing! We will use the all contributors bot to add you to 
 5. Add the link to your trail in the [template.md](template.md) document
 6. Commit your change
 
-```
+```git
   git add *
   git commit -m "Commit message"
 ```
