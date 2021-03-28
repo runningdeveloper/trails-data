@@ -10,15 +10,14 @@ Please if you live in South Africa please add some trails and their details. See
 
 Please star the repo!
 
-## Trails List 
+## Trails List
 
 ### Gauteng
 
-- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
+- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking)
 - Add another
 
 ### Mpumalanga
 
-- [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking) 
+- [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking)
 - Add another
-
