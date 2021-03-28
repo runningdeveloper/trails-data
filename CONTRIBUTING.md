@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Yay thanks for contributing! We will use the allcontributors bot to add you to the project attributions and on a website if we ever make one. 
+Yay thanks for contributing! We will use the all contributors bot to add you to the project attributions and on a website if we ever make one. 
 
 ## Adding a trail
 
@@ -50,8 +50,8 @@ Yay thanks for contributing! We will use the allcontributors bot to add you to t
 
 ## Format of the trail document
 
-Using Markdown take a look at this [cheatsheet](https://www.markdownguide.org/cheat-sheet/) for help.
-We also need some frontmatter for use if we ever make this a website. This is extra information added to the top of the file.
+Using Markdown take a look at this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) for help.
+We also need some front matter for use if we ever make this a website. This is extra information added to the top of the file.
 
 We want the following details at least:
 
@@ -72,4 +72,4 @@ Additional information would be great:
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
-- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/) 
+- [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
