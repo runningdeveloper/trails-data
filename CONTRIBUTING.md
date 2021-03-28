@@ -26,7 +26,7 @@ Yay thanks for contributing! We will use the all contributors bot to add you to 
 5. Add the link to your trail in the [template.md](template.md) document
 6. Commit your change
 
-```git
+```bash
   git add *
   git commit -m "Commit message"
 ```
