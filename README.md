@@ -6,7 +6,7 @@ The idea here is to collect a bunch of different trails to walk, cycle and run i
 
 ## Contribute
 
-Please if you live in South Africa please add some trails and their details. See the [contibution guide](CONTRIBUTING.md) for details.
+Please if you live in South Africa please add some trails and their details. See the [contribution guide](CONTRIBUTING.md) for details.
 
 Please star the repo!
 
