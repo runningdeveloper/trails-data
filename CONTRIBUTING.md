@@ -40,7 +40,7 @@ Yay thanks for contributing! We will use the all contributors bot to add you to 
 2. [Fork](https://github.com/runningdeveloper/where-work-sa/fork) and clone the repository.
 3. Commit your change
 
-```
+```bash
   git add *
   git commit -m "Commit message"
 ```
