@@ -73,3 +73,4 @@ Additional information would be great:
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
 - [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Keep your fork in sync](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
