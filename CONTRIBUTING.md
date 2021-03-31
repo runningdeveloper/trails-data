@@ -72,4 +72,4 @@ Additional information would be great:
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
-- [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/) 
+- [Markdown Cheat sheet](https://www.markdownguide.org/cheat-sheet/)

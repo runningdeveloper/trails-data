@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Fruitymo",
+      "name": "Lebogang Madise",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6312647?v=4",
+      "profile": "https://github.com/Fruitymo",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "runningdeveloper",
+      "name": "Geoffrey Hunt",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5277142?v=4",
+      "profile": "https://runningdeveloper.com",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "trails-data",
+  "projectOwner": "runningdeveloper",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
