@@ -9,17 +9,17 @@ The idea here is to collect a bunch of different trails to walk, cycle and run i
 
 ## Contribute
 
-Please if you live in South Africa please add some trails and their details. See the [contibution guide](CONTRIBUTING.md) for details.
+Please if you live in South Africa please add some trails and their details. See the [contribution guide](CONTRIBUTING.md) for details.
 
 Please star the repo!
 
-## Trails List 
+## Trails List
 
 ### Gauteng
 
 - [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
 - [Kings Kloof](trails/gauteng/kings-kloof.md) (Running, Walking, Cycling)
-- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
+- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking)  
 - [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
 - [Van Gaalen](trails/gauteng/van-gaalen.md) (Running, Walking, Hiking, Cycling)
 - Add another
@@ -31,12 +31,12 @@ Please star the repo!
 
 ### Mpumalanga
 
-- [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking) 
+- [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking)
 - Add another
 
 ### Western Cape
 
-- [Lion's Head](trails/western-cape/lions-head.md) (Running, Walking, Hiking) 
+- [Lion's Head](trails/western-cape/lions-head.md) (Running, Walking, Hiking)  
 - Add another
 
 ## Contributors ✨
@@ -57,4 +57,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Project follows [all-contributors](https://github.com/all-contributors/all-contributors)specification.
+Contributions of any kind welcome!
