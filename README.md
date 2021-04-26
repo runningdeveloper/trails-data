@@ -26,6 +26,7 @@ Please star the repo!
 
 ### KwaZulu-Natal
 
+- [Garden Castle](trails/kwazulu-natal/garden-castle.md) (Running, Hiking)
 - [Giba Gorge](trails/kwazulu-natal/giba-gorge.md) (Running, Walking, Hiking, Cycling)
 - Add another
 
