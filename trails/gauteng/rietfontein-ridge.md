@@ -17,6 +17,6 @@ A lovely little 24 hectare bushveld nature reserve in North Johannesburg. It has
 
 Many people come for picnics as there is a nice open grass area. There are some small animals in the property which are easily spotted. 
 
-No dogs allowed. It is an enclosed nature park with a large fence around so it is safe. THere is ample parking inside and you sign in at the gate when you arrive. 
+No dogs allowed. It is an enclosed nature park with a large fence around so it is safe. There is ample parking inside and you sign in at the gate when you arrive. 
 
 I also recommend this trail for a quick trail run during the week when its quiet. You can run the loop multiple times to get some distance.
