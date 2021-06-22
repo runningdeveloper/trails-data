@@ -19,7 +19,8 @@ Please star the repo!
 
 - [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
 - [Kings Kloof](trails/gauteng/kings-kloof.md) (Running, Walking, Cycling)
-- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking) 
+- [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking)
+- [Norscot Koppies Nature Reserve](trails/gauteng/norscot-koppies.md) (Walking, Hiking) 
 - [Rietfontein Ridge Municipal Nature Reserve](trails/gauteng/rietfontein-ridge.md) (Running, Walking, Hiking)  
 - [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
 - [Taroko Trail Park](trails/gauteng/taroko-trails.md) (Running, Walking, Hiking, Cycling)
