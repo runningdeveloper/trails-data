@@ -38,6 +38,11 @@ Please star the repo!
 - [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking)
 - Add another
 
+### North West
+
+- [Africaland](trails/north-west/africaland.md) (Running, Walking, Hiking, Cycling)
+- Add another
+
 ### Western Cape
 
 - [Lion's Head](trails/western-cape/lions-head.md) (Running, Walking, Hiking)  
