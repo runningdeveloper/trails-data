@@ -45,6 +45,7 @@ Please star the repo!
 
 ### Western Cape
 
+- [Cape Point](trails/western-cape/cape-point.md) (Running, Walking, Hiking)  
 - [Lion's Head](trails/western-cape/lions-head.md) (Running, Walking, Hiking)  
 - Add another
 
