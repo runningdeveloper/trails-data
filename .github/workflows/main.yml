@@ -29,9 +29,8 @@ jobs:
           path: '**/node_modules'
           key: ${{ runner.os }}-modules-${{ hashFiles('**/package-lock.lock') }}
 
-      - run: cd website
-      - run: npm ci
-      - run: npm run build-prefix --if-present
+      - run: cd website && npm ci
+      - run: cd website && npm run build-prefix --if-present
     
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
