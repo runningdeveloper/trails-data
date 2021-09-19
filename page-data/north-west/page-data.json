@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-province-trails-js",
+    "path": "/north-west",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Trails in SA"}},"allMarkdownRemark":{"nodes":[{"excerpt":"A dog friendly trail in Hartebeespoort with river views and for something different the Pelindaba nuclear research center is seen on the…","fields":{"slug":"/north-west/africaland/","province":"north-west"},"frontmatter":{"trailName":"Africaland","date":"27/06/2021","activity":["running","walking","cycling","hiking"],"location":"https://goo.gl/maps/Hp3kGzf4SBM1GoSg8","routes":"https://www.alltrails.com/explore/trail/south-africa/north-west/phaladingwe-hiking-trail","link":"https://africaland.webnode.com/"}}]}},"pageContext":{"id":"north-west"}},
+    "staticQueryHashes": ["3000541721"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-province-trails-js",
+    "path": "/northern-cape",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Trails in SA"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Nothing for this province yet. See the contibution guide to find out how to add a trail.","fields":{"slug":"/northern-cape/todo/","province":"northern-cape"},"frontmatter":{"trailName":null,"date":null,"activity":null,"location":null,"routes":null,"link":null}}]}},"pageContext":{"id":"northern-cape"}},
+    "staticQueryHashes": ["3000541721"]}
