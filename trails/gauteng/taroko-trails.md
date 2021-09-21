@@ -6,7 +6,6 @@ activity:
   - walking
   - cycling
   - hiking
-  - fishing
 link: https://tarokotrails.co.za/
 location: https://goo.gl/maps/1PrCFVB8ALNc6P3D7
 cost: Not Free
