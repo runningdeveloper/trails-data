@@ -1,0 +1,53 @@
+{
+  "plugins": [
+    [
+      "remark-frontmatter",
+      [
+        "yaml"
+      ]
+    ],
+    [
+      "remark-frontmatter-validator",
+      [
+        2,
+        {
+          "trailName": {
+            "type": "string",
+            "required": true
+          },
+          "date": {
+            "type": "string",
+            "required": true
+          },
+          "activity": {
+            "type": "array",
+            "required": true,
+            "oneOf": [
+              "running",
+              "swimming",
+              "walking",
+              "cycling",
+              "hiking"
+            ]
+          },
+          "link": {
+            "type": "string",
+            "required": false
+          },
+          "location": {
+            "type": "string",
+            "required": true
+          },
+          "cost": {
+            "type": "string",
+            "required": true
+          },
+          "routes": {
+            "type": "string",
+            "required": false
+          }
+        }
+      ]
+    ]
+  ]
+}
