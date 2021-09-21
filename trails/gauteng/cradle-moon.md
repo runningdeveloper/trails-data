@@ -1,5 +1,4 @@
 ---
-trailName: Cradle Moon
 date: 2/12/2020
 activity:
   - running
