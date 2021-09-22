@@ -1,12 +1,12 @@
 ---
 trailName: Norscot Koppies Nature Reserve 
-date: 22/06/2021
+date: 2021-06-22
 activity:
   - walking
   - hiking
 link: https://www.norscotkoppies.co.za/
 location: https://goo.gl/maps/5oEPNHaAjJKKqgJt9
-cost: free
+free: true
 routes: https://www.norscotkoppies.co.za/walking-trail/trail-guide/
 ---
 

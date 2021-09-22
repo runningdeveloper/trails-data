@@ -1,6 +1,6 @@
 ---
 trailName: Kings Kloof
-date: 14/12/2020
+date: 2020-12-14
 activity:
   - running
   - walking
@@ -8,7 +8,7 @@ activity:
   - hiking
 link: https://www.kingskloofvenue.co.za/
 location: https://goo.gl/maps/AqeQxaW2EPKmmcK78
-cost: Not Free
+free: false
 routes: https://www.alltrails.com/trail/south-africa/gauteng/kings-kloof-farm-blue-route
 ---
 

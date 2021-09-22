@@ -1,13 +1,13 @@
 ---
 trailName: Cape Point
-date: 31/07/2021
+date: 2021-07-31
 activity:
   - running
   - walking
   - hiking
 link: https://capepoint.co.za/
 location: https://goo.gl/maps/ATJbzW7sjfhpYXQn8
-cost: not free
+free: false
 routes: https://www.alltrails.com/trail/south-africa/western-cape/cape-of-good-hope-trail
 ---
 

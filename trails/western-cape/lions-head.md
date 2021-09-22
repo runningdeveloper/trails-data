@@ -1,13 +1,13 @@
 ---
 trailName: Lion's Head 
-date: 20/11/2020
+date: 2020-11-20
 activity:
   - running
   - walking
   - hiking
 link: https://hikelionshead.co.za
 location: https://goo.gl/maps/act5iy8qjJZvTYEx8
-cost: free
+free: true
 routes: https://hikelionshead.co.za/lions-head-trail-map/
 ---
 

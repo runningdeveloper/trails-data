@@ -1,13 +1,13 @@
 ---
 trailName: Kaapsehoop Nature Trail 
-date: 4/11/2020
+date: 2020-11-04
 activity:
   - running
   - walking
   - hiking
 link: https://www.alltrails.com/explore/recording/kaapschehoop-nature-trail-812469e
 location: https://goo.gl/maps/hjxiEqnHLiqjHs8U8
-cost: free
+free: true
 routes: https://www.alltrails.com/explore/recording/kaapschehoop-nature-trail-812469e
 ---
 

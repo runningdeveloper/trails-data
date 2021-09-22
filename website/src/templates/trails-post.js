@@ -4,12 +4,12 @@ import Seo from "../components/seo"
 import Layout from "../components/layout"
 import Breadcrumbs from "../components/breadcrumbs"
 import ActivityList from "../components/activityList"
+import { FaDollarSign } from "react-icons/fa"
 
 const TrailsPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
-
   return (
     <Layout location={location} title={siteTitle}>
       <Seo
@@ -26,6 +26,17 @@ const TrailsPostTemplate = ({ data, location }) => {
         <header>
           <h1 itemProp="headline">{post.frontmatter.trailName}</h1>
           <ActivityList activities={post.frontmatter.activity} />
+          <div className="my-2">
+            {!post.frontmatter.free && (
+              <span className="flex content-center">
+                <FaDollarSign
+                  className="text-xl fill-current text-red-700 mr-1"
+                  title="Not Free"
+                />
+                Not free
+              </span>
+            )}
+          </div>
           <span>
             <a href={post.frontmatter.link} target="_blank" rel="noreferrer">
               Website
@@ -40,7 +51,6 @@ const TrailsPostTemplate = ({ data, location }) => {
               Location
             </a>
           </span>
-          <p>{post.frontmatter.cost}</p>
           <p>Updated: {post.frontmatter.date}</p>
         </header>
         <section
@@ -101,12 +111,12 @@ export const pageQuery = graphql`
       }
       frontmatter {
         trailName
-        date
+        date(formatString: "D MMMM YYYY")
         location
         routes
         link
         activity
-        cost
+        free
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

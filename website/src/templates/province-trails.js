@@ -4,6 +4,7 @@ import Seo from "../components/seo"
 import Layout from "../components/layout"
 import Breadcrumbs from "../components/breadcrumbs"
 import ActivityList from "../components/activityList"
+import { FaDollarSign } from "react-icons/fa"
 
 const ProvinceTrailsTemplate = ({ data, location }) => {
   const posts = data.allMarkdownRemark.nodes
@@ -44,7 +45,15 @@ const ProvinceTrailsTemplate = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <ActivityList activities={post.frontmatter.activity} />
+                  <div className="flex">
+                    <ActivityList activities={post.frontmatter.activity} />
+                    {!post.frontmatter.free && (
+                      <FaDollarSign
+                        className="text-xl fill-current text-red-700 my-6 m-2"
+                        title="Not Free"
+                      />
+                    )}
+                  </div>
                 </header>
                 <section>
                   <p
@@ -91,6 +100,7 @@ export const pageQuery = graphql`
           location
           routes
           link
+          free
         }
       }
     }

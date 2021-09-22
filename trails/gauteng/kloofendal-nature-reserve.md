@@ -1,13 +1,13 @@
 ---
 trailName: Kloofendal Nature Reserve 
-date: 23/10/2020
+date: 2020-10-23
 activity:
   - running
   - walking
   - hiking
 link: https://kloofendalfriends.yolasite.com/
 location: https://goo.gl/maps/H7YVLVPmhrVnKhdi9
-cost: free
+free: true
 routes: https://kloofendalfriends.yolasite.com/resources/Knd_Trails.jpg
 ---
 

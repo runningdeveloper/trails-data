@@ -16,7 +16,7 @@
             "required": true
           },
           "date": {
-            "type": "string",
+            "type": "date",
             "required": true
           },
           "activity": {
@@ -38,11 +38,14 @@
             "type": "string",
             "required": true
           },
-          "cost": {
-            "type": "string",
-            "required": true
+          "free": {
+            "type": "boolean"
           },
           "routes": {
+            "type": "string",
+            "required": false
+          },
+          "otherLinks":{
             "type": "string",
             "required": false
           }

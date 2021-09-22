@@ -1,13 +1,13 @@
 ---
 trailName: Rietfontein Ridge Municipal Nature Reserve
-date: 27/04/2021
+date: 2021-04-27
 activity:
   - running
   - walking
   - hiking
 link: https://www.friendsofrietfontein.org/
 location: https://goo.gl/maps/2Z6eJ2WAwWaqTP8C8
-cost: free
+free: true
 routes: https://www.strava.com/segments/12624926
 ---
 

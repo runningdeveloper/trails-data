@@ -1,12 +1,12 @@
 ---
 trailName: Garden Castle
-date: 11/04/2021
+date: 2021-04-11
 activity:
   - running
   - hiking
 link: http://www.kznwildlife.com/Garden%20Castle.html
 location: https://goo.gl/maps/nDRut5TgdLqaabVb6
-cost: Not Free
+free: false
 routes: https://www.alltrails.com/south-africa/kwazulu-natal/garden-castle
 ---
 

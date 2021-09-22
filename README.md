@@ -3,7 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-The idea here is to collect a bunch of different trails to walk, cycle and run in South Africa. I'm based in JHB so trails will probably be mostly near me. Might end up making a website in future, so collecting trails in Markdown files. See below for a rough index of the trails.
+The idea here is to collect a bunch of different trails to walk, cycle and run in South Africa. I'm based in JHB so trails will probably be mostly near me. Made a small website to display the data from Markdown files. See below for a rough index of the trails.
+
+[Website](https://runningdeveloper.github.io/trails-data/)
 
 ![running trail](https://media.giphy.com/media/nPOxhmHbuQInu/giphy.gif)
 

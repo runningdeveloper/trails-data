@@ -1,6 +1,6 @@
 ---
 trailName: Cradle Moon
-date: 2/12/2020
+date: 2020-12-02
 activity:
   - running
   - walking
@@ -9,7 +9,7 @@ activity:
   - hiking
 link: https://www.cradlemoon.co.za/
 location: https://goo.gl/maps/GPMvbRrxmhTbM1LJA
-cost: Not Free
+free: false
 routes: https://www.cradlemoon.co.za/cycling-trail-running
 ---
 

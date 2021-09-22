@@ -1,6 +1,6 @@
 ---
 trailName: Taroko Trail Park
-date: 23/04/2021
+date: 2021-04-23
 activity:
   - running
   - walking
@@ -8,7 +8,7 @@ activity:
   - hiking
 link: https://tarokotrails.co.za/
 location: https://goo.gl/maps/1PrCFVB8ALNc6P3D7
-cost: Not Free
+free: false
 routes: https://www.strava.com/segments/27541060
 ---
 

@@ -1,6 +1,6 @@
 ---
 trailName: Van Gaalen
-date: 25/01/2021
+date: 2021-01-25
 activity:
   - running
   - walking
@@ -8,7 +8,7 @@ activity:
   - hiking
 link: https://www.vangaalen.co.za
 location: https://goo.gl/maps/Q8srJDXygHVzXRNk7
-cost: Not Free
+free: false
 routes: https://www.vangaalen.co.za/van-gaalen-trails
 ---
 

@@ -1,6 +1,6 @@
 ---
 trailName: Giba Gorge
-date: 21/12/2020
+date: 2020-12-21
 activity:
   - running
   - walking
@@ -8,7 +8,7 @@ activity:
   - hiking
 link: https://www.gibagorge.co.za/
 location: https://g.page/gibagorgemtbpark
-cost: Not Free
+free: false
 routes: https://www.gibagorge.co.za/activities/
 ---
 

@@ -1,6 +1,6 @@
 ---
 trailName: Africaland
-date: 27/06/2021
+date: 2021-06-27
 activity:
   - running
   - walking
@@ -8,7 +8,7 @@ activity:
   - hiking
 link: https://africaland.webnode.com/
 location: https://goo.gl/maps/Hp3kGzf4SBM1GoSg8
-cost: Not Free
+free: false
 routes: https://www.alltrails.com/explore/trail/south-africa/north-west/phaladingwe-hiking-trail
 ---
 

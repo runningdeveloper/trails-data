@@ -1,17 +1,20 @@
 # Contribution Guidelines
 
-Yay thanks for contributing! We will use the all contributors bot to add you to the project attributions and on a website if we ever make one.
+Yay thanks for contributing! I would like this repo to be beginner friendly and a simple way to get an open source contribution done. I think we can make something useful for people visiting and living in South Africa. I will use the all contributors bot to add you to the project attributions and it will add your github profile link to the website.
 
-## Adding a trail
+Contributions are is mainly aimed at software developers in or visiting South Africa. Adding a trail that you have actually done recently is the idea. Unless you want to help out with other aspects like the website.
 
-- Check to see that the trail doesn't already exist
-- Check the issues tab to see if someone else is not already adding the trail
-- Add an issue to say you doing the trail so that other people do it too
+## How to add a trail
+
+- Check to see that the trail doesn't already exist (otherwise you can edit an existing one)
+- Check the issues tab to see if someone else is not already working on adding the trail
+- Check the issues tab to see if there is a trail suggested that no one has claimed yet
+- Add or comment on an issue to say you want to do your trail so that other people don't submit the same trail
 - Follow the guide below for submitting a pull request
 
 ## Editing a trail
 
-- I guess follow the steps below to submit a pull request to edit the trail
+- Follow the steps below to submit a pull request to edit the trail
 
 ## Other contributions
 
@@ -19,53 +22,35 @@ Yay thanks for contributing! We will use the all contributors bot to add you to 
 
 ## Submitting a pull request to add a trail
 
+If you are a complete beginner have a look at [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+If you know the basics here is quick run down of how to do it:
+
 1. [Fork](https://github.com/runningdeveloper/trails-data/fork) and clone the repository
 2. Create a new branch: `git checkout -b my-branch-name`
 3. Create a new `trail-name.md` (no spaces) document in `trails` folder under the correct province.
 4. Look at the [template.md](template.md) document for a guide on how to layout the information. Or see the existing trails for a guide.
-5. Add the link to your trail in the [template.md](template.md) document
-6. Commit your change
+5. Commit your change
 
     ```bash
       git add *
       git commit -m "Commit message"
     ```
-
-7. Push to your fork and [submit a pull request](https://github.com/runningdeveloper/trails-data/compare)
-8. Pat your self on the back and wait for your pull request to be reviewed and merged.
-
-## Submitting a pull request to improve the website
-
-1. Check to see if the problem exists in the [Issues](https://github.com/runningdeveloper/where-work-sa/issues) and [Pull Requests](https://github.com/runningdeveloper/where-work-sa/pulls) so you don't do double work.
-2. [Fork](https://github.com/runningdeveloper/where-work-sa/fork) and clone the repository.
-3. Commit your change
-
-    ```bash
-      git add *
-      git commit -m "Commit message"
-    ```
-
-4. Push to your fork and [submit a pull request](https://github.com/runningdeveloper/where-work-sa/compare)
-5. Pat your self on the back and wait for your pull request to be reviewed and merged.
+6. Push to your fork and [submit a pull request](https://github.com/runningdeveloper/trails-data/compare)
+7. Your pull request will run some tests and let you know if there is something you can fix.
+8. If all the tests pass, pat your self on the back and wait for your pull request to be reviewed and merged.
+9. Once merged you'll be added to the contributions list.
 
 ## Format of the trail document
 
 Using Markdown take a look at this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) for help.
 We also need some front matter for use if we ever make this a website. This is extra information added to the top of the file.
 
-We want the following details at least:
+See the [template.md](template.md) document for details on all the fields.
 
-- Trail Name (string)
-- Date edited (date string like 01/10/2020)
-- Activity types allowed (list like - cycling,running,walking,hiking)
-- Link to more info (google maps or trail website)
-- Location (google map link)
-- Is it free to enter (string Yes or No)
-- Description (details about the trail and routes, more info the better and maybe an image)
+## Other Notes
 
-Additional information would be great:
-
-- Routes link (if you have an all trails link this would be great)
+If there are many contributions or changes being merged, your fork may be behind on the new changes. Take a look at this link to [keep your fork in sync](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork). There is a nice new button to make it easier.
 
 ## Resources
 
