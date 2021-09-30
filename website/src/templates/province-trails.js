@@ -47,7 +47,7 @@ const ProvinceTrailsTemplate = ({ data, location }) => {
                   </h2>
                   <div className="flex">
                     <ActivityList activities={post.frontmatter.activity} />
-                    {!post.frontmatter.free && (
+                    {post.frontmatter.free !== null && !post.frontmatter.free && (
                       <FaDollarSign
                         className="text-xl fill-current text-red-700 my-6 m-2"
                         title="Not Free"
