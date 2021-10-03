@@ -1,0 +1,25 @@
+{
+  "name": "trails-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node validate.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runningdeveloper/trails-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runningdeveloper/trails-data/issues"
+  },
+  "homepage": "https://github.com/runningdeveloper/trails-data#readme",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "glob-promise": "^4.2.0",
+    "gray-matter": "^4.0.3",
+    "yup": "^0.32.9"
+  }
+}

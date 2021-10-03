@@ -28,5 +28,5 @@ jobs:
       - uses: actions/checkout@v2
 
       # not sure about doing this without a package.json
-      - run: npm i remark-cli remark-frontmatter remark-frontmatter-validator -g
-      - run: remark ./trails/**/*.md -q
+      - run: npm i
+      - run: npm test
