@@ -10,7 +10,7 @@ location: https://goo.gl/maps/ck3eiy2Rxc1fS7C37
 free: false
 routes: https://www.alltrails.com/parks/south-africa/gauteng/wonderboom-nature-reserve 
 otherLinks:
-  - 
+  - https://www.sa-venues.com/game-reserves/wonderboom.php 
 ---
 
 Wonderboom Nature Reserve is named after the wild fig (Ficus salicifolia) which means *miracle tree*.
