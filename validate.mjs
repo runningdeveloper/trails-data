@@ -16,8 +16,8 @@ let schema = yup.object().shape({
     link: yup.string().url().required('"link" is required in the frontmatter see the template.md'),
     location: yup.string().url().required('"location" is required in the frontmatter see the template.md'),
     free: yup.boolean().required('"free" is required in the frontmatter see the template.md'),
-    routes: yup.string().url(),
-    otherLinks: yup.array(yup.string().url()),
+    routes: yup.string().url().nullable(),
+    otherLinks: yup.array(yup.string().url()).nullable(),
 });
 
 
