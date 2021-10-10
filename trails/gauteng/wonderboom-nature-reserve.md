@@ -13,8 +13,6 @@ otherLinks:
   - https://www.tshwane.gov.za/sites/tourism/natureconservation/pages/wonderboom-nature-reserve.aspx
 ---
 
-## Cool historical fact
-
 Wonderboom Nature Reserve is named after the wild fig (Ficus salicifolia) which means *miracle tree*.
 A legend that places the remains of a chief of an indigenous tribe beneath its roots serves to explain the size of this particular Wonderboom (miracle tree). It was originally a lot bigger, so big it was reputed to provide shade for 1 000 people at a time, or 22 ox wagons. Source:[sa-venues.com](https://www.sa-venues.com/game-reserves/wonderboom.php)
 
