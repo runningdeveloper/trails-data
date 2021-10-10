@@ -50,14 +50,34 @@ const TrailsPostTemplate = ({ data, location }) => {
             >
               Location
             </a>
-          </span>
+          </span>{" "}
+          {post.frontmatter.routes && <span>
+            <a
+              href={post.frontmatter.routes}
+              target="_blank"
+              rel="noreferrer"
+            >
+              Routes
+            </a>
+          </span>}
           <p>Updated: {post.frontmatter.date}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        {post.frontmatter.otherLinks && <h3>Other links about this trail</h3>}
+        {post.frontmatter.otherLinks && <ul>{post.frontmatter.otherLinks.map(a => <li key={a}><a
+          href={a}
+          target="_blank"
+          rel="noreferrer"
+        >
+          {a}
+        </a></li>)}
+        </ul>
+        }
       </article>
+
       {/* <nav className="blog-post-nav">
         <ul
           style={{
@@ -117,6 +137,7 @@ export const pageQuery = graphql`
         link
         activity
         free
+        otherLinks
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
