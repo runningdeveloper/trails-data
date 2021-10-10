@@ -13,5 +13,7 @@ otherLinks:
   - https://www.tshwane.gov.za/sites/tourism/NatureConservation/pages/moreleta-kloof-nature-area.aspx 
 ---
 
-If you're looking to escape the city from within the city, Moreleta Kloof Nature Reserve is the place to be. 
+If you're looking to escape the city of Pretoria from within the city, Moreleta Kloof Nature Reserve is the place to be. 
 The park offers various trails suitable for all members of the family and has some Zebras. You can do just over 5KM on the trail.
+
+![moreleta-kloof](moreleta-kloof.png)
