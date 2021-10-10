@@ -22,14 +22,14 @@ Please star the repo!
 - [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
 - [Kings Kloof](trails/gauteng/kings-kloof.md) (Running, Walking, Cycling)
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking)
-- [Moreleta kloof Nature Reserve](trails/moreleta-kloof-nature-reserve.md) (Running, Walking, Hiking)
-- [NIROX Sculpture Park](trails/nirox-sculpture-park.md) (Walking)
+- [Moreleta kloof Nature Reserve](trails/gauteng/moreleta-kloof-nature-reserve.md) (Running, Walking, Hiking)
+- [NIROX Sculpture Park](trails/gauteng/nirox-sculpture-park.md) (Walking)
 - [Norscot Koppies Nature Reserve](trails/gauteng/norscot-koppies.md) (Walking, Hiking) 
 - [Rietfontein Ridge Municipal Nature Reserve](trails/gauteng/rietfontein-ridge.md) (Running, Walking, Hiking)  
 - [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
 - [Taroko Trail Park](trails/gauteng/taroko-trails.md) (Running, Walking, Hiking, Cycling)
 - [Van Gaalen](trails/gauteng/van-gaalen.md) (Running, Walking, Hiking, Cycling)
-- [Wonderboom Nature Reserve](trails/wonderboom-nature-reserve.md) (Running, Walking, Hiking)
+- [Wonderboom Nature Reserve](trails/gauteng/wonderboom-nature-reserve.md) (Running, Walking, Hiking)
 - Add another
 
 ### KwaZulu-Natal
