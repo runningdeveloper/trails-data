@@ -20,6 +20,7 @@ Please star the repo!
 ### Gauteng
 
 - [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
+- [Delta Park](trails/gauteng/delta-park.md) (Running, Walking, Cycling)
 - [Kings Kloof](trails/gauteng/kings-kloof.md) (Running, Walking, Cycling)
 - [Kloofendal Nature Reserve](trails/gauteng/kloofendal-nature-reserve.md) (Running, Walking, Hiking)
 - [Moreleta kloof Nature Reserve](trails/gauteng/moreleta-kloof-nature-reserve.md) (Running, Walking, Hiking)
