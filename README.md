@@ -28,6 +28,7 @@ Please star the repo!
 - [Norscot Koppies Nature Reserve](trails/gauteng/norscot-koppies.md) (Walking, Hiking) 
 - [Rietfontein Ridge Municipal Nature Reserve](trails/gauteng/rietfontein-ridge.md) (Running, Walking, Hiking)  
 - [Robyn Park](trails/gauteng/robyn-park.md) (Running, Walking, Cycling)
+- [Sable Ranch Trail](trails/gauteng/sable-ranch.md) (Running, Walking, Hiking)
 - [Taroko Trail Park](trails/gauteng/taroko-trails.md) (Running, Walking, Hiking, Cycling)
 - [Van Gaalen](trails/gauteng/van-gaalen.md) (Running, Walking, Hiking, Cycling)
 - [Wonderboom Nature Reserve](trails/gauteng/wonderboom-nature-reserve.md) (Running, Walking, Hiking)
