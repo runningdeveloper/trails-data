@@ -12,6 +12,10 @@ Contributions are is mainly aimed at software developers in or visiting South Af
 - Add or comment on an issue to say you want to do your trail so that other people don't submit the same trail
 - Follow the guide below for submitting a pull request
 
+## Video of how to add a trail, no extra tools needed all from the browser
+
+Here is the video hope it helps - [https://youtu.be/761sA3FfepU](https://youtu.be/761sA3FfepU)
+
 ## Editing a trail (add more info or fix content errors)
 
 - Follow the steps below to submit a pull request to edit the trail
