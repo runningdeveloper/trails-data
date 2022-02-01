@@ -9,7 +9,8 @@ activity:
 link: https://www.gibagorge.co.za/
 location: https://g.page/gibagorgemtbpark
 free: false
-routes: https://www.gibagorge.co.za/activities/
+routes: 
+  - https://www.gibagorge.co.za/activities/
 ---
 
 Giba Gorge is a mountain bike park near Pinetown. There are a number of mountain biking and hiking routes to try. There is a restaurant, a playground and bike rental available here.

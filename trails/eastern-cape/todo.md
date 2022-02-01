@@ -6,7 +6,9 @@ activity:
 link: https://github.com/runningdeveloper/trails-data
 location: http://maps.google.co.za/
 free: true
-routes: https://github.com/runningdeveloper/trails-data
+routes: 
+ - https://github.com/runningdeveloper/trails-data
+otherLinks: 
 ---
 
 Nothing for this province yet.

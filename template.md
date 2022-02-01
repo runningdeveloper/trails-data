@@ -9,7 +9,8 @@ activity:
 link: https://link-to-trail-website
 location: https://goo.gl/maps/LmATVVBDUkAR3z6P6
 free: true
-routes: https://link-to-the-route-like-alltrails
+routes: 
+  - https://link-to-the-route-like-alltrails
 otherLinks:
   - https://link-to-another-blog-post
   - https://link-to-another-video
@@ -27,5 +28,5 @@ For the frontmatter at the top here is an explanation of what's required:
 - link (required (url) - a website for the trail, if there is not one try add something with authority like a google place link, government website or facebook page)
 - location (required (url) - google map link, so you can pull it up quickly for directions)
 - free (required (boolean) - is the trail free or do you have to pay, boolean true or false)
-- routes (optional (url) - try find a webpage with a route or look on alltrails.com or strava.com)
+- routes (optional (list) - try find a webpage with a route or look on alltrails.com or strava.com)
 - otherLinks (optional (list) - list of other resources about the trail like another blog post, article or video)

@@ -9,7 +9,8 @@ activity:
 link: https://africaland.webnode.com/
 location: https://goo.gl/maps/Hp3kGzf4SBM1GoSg8
 free: false
-routes: https://www.alltrails.com/explore/trail/south-africa/north-west/phaladingwe-hiking-trail
+routes: 
+  - https://www.alltrails.com/explore/trail/south-africa/north-west/phaladingwe-hiking-trail
 ---
 
 A dog friendly trail in Hartebeespoort with river views and for something different the Pelindaba nuclear research center is seen on the routes. 

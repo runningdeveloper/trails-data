@@ -10,7 +10,8 @@ activity:
 link: https://www.cradlemoon.co.za/
 location: https://goo.gl/maps/GPMvbRrxmhTbM1LJA
 free: false
-routes: https://www.cradlemoon.co.za/cycling-trail-running
+routes: 
+  - https://www.cradlemoon.co.za/cycling-trail-running
 ---
 
 This is a fantastic place to visit and hike. There is a large lake with an impressive dam wall which is beautiful when flowing. There are animals and a large number of activities you can do; swimming, kayaking, cycling and hiking.

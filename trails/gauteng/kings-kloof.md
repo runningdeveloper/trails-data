@@ -9,7 +9,8 @@ activity:
 link: https://www.kingskloofvenue.co.za/
 location: https://goo.gl/maps/AqeQxaW2EPKmmcK78
 free: false
-routes: https://www.alltrails.com/trail/south-africa/gauteng/kings-kloof-farm-blue-route
+routes: 
+  - https://www.alltrails.com/trail/south-africa/gauteng/kings-kloof-farm-blue-route
 ---
 
 This is a fun hiking, running and cycling spot near Johannesburg. There are a number of trails to choose from and a small waterfall to check out on the routes.

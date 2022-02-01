@@ -8,7 +8,8 @@ activity:
 link: https://joburg.co.za/delta-park/
 location: https://goo.gl/maps/e7Td4vv6reExJ6198
 free: true
-routes: https://www.parkrun.co.za/delta/course/
+routes: 
+  - https://www.parkrun.co.za/delta/course/
 otherLinks:
   - http://jozitrails.co.za/
   - https://www.parkrun.co.za/delta/

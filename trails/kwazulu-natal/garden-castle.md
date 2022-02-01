@@ -7,7 +7,8 @@ activity:
 link: http://www.kznwildlife.com/Garden%20Castle.html
 location: https://goo.gl/maps/nDRut5TgdLqaabVb6
 free: false
-routes: https://www.alltrails.com/south-africa/kwazulu-natal/garden-castle
+routes: 
+  - https://www.alltrails.com/south-africa/kwazulu-natal/garden-castle
 ---
 
 Garden Castle is a nature reserve near Underberg in the Maloti Drakensberg Mountains. There are a few hiking routes that start from the Garden Castle camp grounds. For a small fee (R40) you can do one of the hikes.

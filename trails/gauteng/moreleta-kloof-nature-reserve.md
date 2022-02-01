@@ -8,7 +8,8 @@ activity:
 link: https://moreletakloof.co.za/ 
 location: https://goo.gl/maps/mZv19vvhL7ThJWE78 
 free: true
-routes: https://www.alltrails.com/parks/south-africa/gauteng/moreleta-kloof-nature-reserve 
+routes: 
+  - https://www.alltrails.com/parks/south-africa/gauteng/moreleta-kloof-nature-reserve 
 otherLinks:
   - https://www.tshwane.gov.za/sites/tourism/NatureConservation/pages/moreleta-kloof-nature-area.aspx 
   - https://www.rademeyers.co.za/

@@ -8,7 +8,8 @@ activity:
 link: https://www.alltrails.com/explore/recording/kaapschehoop-nature-trail-812469e
 location: https://goo.gl/maps/hjxiEqnHLiqjHs8U8
 free: true
-routes: https://www.alltrails.com/explore/recording/kaapschehoop-nature-trail-812469e
+routes: 
+  - https://www.alltrails.com/explore/recording/kaapschehoop-nature-trail-812469e
 ---
 
 If you are out in the small town of Kaapsehoop you can do this short 3km route right from the center of town.

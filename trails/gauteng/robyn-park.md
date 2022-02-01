@@ -8,7 +8,8 @@ activity:
 link: https://www.strava.com/segments/25214525
 location: https://g.page/robyn-park-randburg?share
 free: true
-routes: https://www.strava.com/segments/25214525
+routes: 
+  - https://www.strava.com/segments/25214525
 ---
 
 Update - They have removed the 3km bike track signage so maybe stick to walking and running. The bicycle ramps are still active.

@@ -9,7 +9,8 @@ activity:
 link: https://www.vangaalen.co.za
 location: https://goo.gl/maps/Q8srJDXygHVzXRNk7
 free: false
-routes: https://www.vangaalen.co.za/van-gaalen-trails
+routes: 
+  - https://www.vangaalen.co.za/van-gaalen-trails
 ---
 
 This is a beautiful hiking and cycling spot near the Magaliesburg. The farm has a number of routes which go next to and away from the river passing through the farm. It's called the Van Gaalen Cheese farm because yes there is a small cheese making operation on site. There is a restaurant and farm stall where you can buy the cheese after a full hike. 

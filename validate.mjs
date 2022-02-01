@@ -16,8 +16,8 @@ let schema = yup.object().shape({
     link: yup.string().url().required('"link" is required in the frontmatter see the template.md'),
     location: yup.string().url().required('"location" is required in the frontmatter see the template.md'),
     free: yup.boolean().required('"free" is required in the frontmatter see the template.md'),
-    routes: yup.string().url().nullable(),
-    otherLinks: yup.array(yup.string().url()).nullable(),
+    routes: yup.array(yup.string().url().required()).nullable(),
+    otherLinks: yup.array(yup.string().url().required()).nullable()
 });
 
 
@@ -26,7 +26,7 @@ const posts = await glob('./trails/**/*.md')
 for (let post of posts) {
     const parsed = matter.read(post)
     try {
-        await schema.validate(parsed.data)
+        await schema.validate(parsed.data, { strict: true })
     } catch (error) {
         // need a way to let u know where the error is
         throw new Error(`For file ${post}\n${error.message}`)

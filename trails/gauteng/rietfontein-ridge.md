@@ -8,7 +8,8 @@ activity:
 link: https://www.friendsofrietfontein.org/
 location: https://goo.gl/maps/2Z6eJ2WAwWaqTP8C8
 free: true
-routes: https://www.strava.com/segments/12624926
+routes: 
+  - https://www.strava.com/segments/12624926
 ---
 
 A lovely little 24 hectare bushveld nature reserve in North Johannesburg. It has a nice beginner friendly 2.5km hiking route that takes you around and over a small koppie. It has a nice view from the top of the surrounding concrete jungle of Johannesburg North. The route is well marked and has some information boards about animals in the area which will be good for kids.

@@ -8,7 +8,8 @@ activity:
 link: https://www.tshwane.gov.za/sites/tourism/natureconservation/pages/wonderboom-nature-reserve.aspx
 location: https://goo.gl/maps/ck3eiy2Rxc1fS7C37 
 free: false
-routes: https://www.alltrails.com/parks/south-africa/gauteng/wonderboom-nature-reserve 
+routes: 
+  - https://www.alltrails.com/parks/south-africa/gauteng/wonderboom-nature-reserve 
 otherLinks:
   - https://www.sa-venues.com/game-reserves/wonderboom.php 
 ---

@@ -8,7 +8,8 @@ activity:
 link: https://capepoint.co.za/
 location: https://goo.gl/maps/ATJbzW7sjfhpYXQn8
 free: false
-routes: https://www.alltrails.com/trail/south-africa/western-cape/cape-of-good-hope-trail
+routes: 
+  - https://www.alltrails.com/trail/south-africa/western-cape/cape-of-good-hope-trail
 ---
 
 There are a number of amazing trails in the Cape Point National Park. There are views for days, cliffs, beaches and even tidal pools to swim in. It costs R85 per person (SA residents) and I recommend you get in early and spend the day because there is so much to see and do.

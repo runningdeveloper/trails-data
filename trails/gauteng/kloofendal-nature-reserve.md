@@ -8,7 +8,8 @@ activity:
 link: https://kloofendalfriends.yolasite.com/
 location: https://goo.gl/maps/H7YVLVPmhrVnKhdi9
 free: true
-routes: https://kloofendalfriends.yolasite.com/resources/Knd_Trails.jpg
+routes: 
+  - https://kloofendalfriends.yolasite.com/resources/Knd_Trails.jpg
 ---
 
 The Kloofendal nature trail is great because you can get the feel of being far away in the outdoors but it's actually nearby in Roodepoort Johannesburg. 

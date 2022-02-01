@@ -8,7 +8,8 @@ activity:
 link: https://www.sableranch-magalies.co.za/
 location: https://g.page/Sablehikingtrail
 free: false
-routes: https://www.alltrails.com/trail/south-africa/gauteng/sable-ranch-trail
+routes: 
+  - https://www.alltrails.com/trail/south-africa/gauteng/sable-ranch-trail
 otherLinks:
   - https://www.facebook.com/NobleVillageHekpoort/
 ---

@@ -9,7 +9,8 @@ activity:
 link: https://tarokotrails.co.za/
 location: https://goo.gl/maps/1PrCFVB8ALNc6P3D7
 free: false
-routes: https://www.strava.com/segments/27541060
+routes: 
+  - https://www.strava.com/segments/27541060
 ---
 
 Taroko Trail Park is next to Modderfontein Reserve and offers a variety of activities including: cycling, trail running, hiking and fishing. There are a number of small lakes/dams in the park which attract a variety of birds. The Fourways Farmers market has moved here so if you there on the weekend you can visit the different stalls.

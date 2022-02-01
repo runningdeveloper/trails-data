@@ -4,7 +4,7 @@ import Seo from "../components/seo"
 import Layout from "../components/layout"
 import Breadcrumbs from "../components/breadcrumbs"
 import ActivityList from "../components/activityList"
-import { FaDollarSign } from "react-icons/fa"
+import { FaDollarSign, FaRoute } from "react-icons/fa"
 
 const TrailsPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -51,15 +51,20 @@ const TrailsPostTemplate = ({ data, location }) => {
               Location
             </a>
           </span>{" "}
-          {post.frontmatter.routes && <span>
+          {post.frontmatter.routes && <div className="flex my-4"><span className="mr-2">Routes: </span>{post.frontmatter.routes.map((a, i) => <div className="!list-none" key={a}>
             <a
-              href={post.frontmatter.routes}
+              href={a}
               target="_blank"
               rel="noreferrer"
+              title={`Route ${i}`}
             >
-              Routes
-            </a>
-          </span>}
+              <FaRoute
+                className="text-xl fill-current text-blue-700 mr-2 hover:text-blue-400"
+                title={`Route ${i}`}
+              />
+            </a></div>)}
+          </div>
+          }
           <p>Updated: {post.frontmatter.date}</p>
         </header>
         <section

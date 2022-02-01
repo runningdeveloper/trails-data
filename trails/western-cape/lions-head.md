@@ -8,7 +8,8 @@ activity:
 link: https://hikelionshead.co.za
 location: https://goo.gl/maps/act5iy8qjJZvTYEx8
 free: true
-routes: https://hikelionshead.co.za/lions-head-trail-map/
+routes: 
+  - https://hikelionshead.co.za/lions-head-trail-map/
 ---
 
 The Lion’s Head hiking trail is 5.5 km both ways. The 5.5 km hiking trail is a round loop. Two different routes to reach the top of Lion’s Head mountain are available. 

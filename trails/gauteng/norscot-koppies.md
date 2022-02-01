@@ -7,7 +7,8 @@ activity:
 link: https://www.norscotkoppies.co.za/
 location: https://goo.gl/maps/5oEPNHaAjJKKqgJt9
 free: true
-routes: https://www.norscotkoppies.co.za/walking-trail/trail-guide/
+routes: 
+  - https://www.norscotkoppies.co.za/walking-trail/trail-guide/
 ---
 
 The Norscot Koppies Nature Reserve is smack bang in the middle of the Fourways area in Johannesburg. It is only open twice a month on the second and last Sunday of the month. 
