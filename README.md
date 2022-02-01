@@ -43,6 +43,7 @@ Please star the repo!
 ### Mpumalanga
 
 - [Kaapsehoop Nature Trail](trails/mpumalanga/kaapsehoop-nature-trail.md) (Running, Walking, Hiking)
+- [Wathaba Hiking Trails](trails/mpumalanga/wathaba-hiking-trails.md) (Running, Hiking)
 - Add another
 
 ### North West
