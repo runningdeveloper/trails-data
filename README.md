@@ -17,6 +17,10 @@ Please star the repo!
 
 ## Trails List
 
+## Free State
+
+- [Clarens Nature Reserve](trails/free-state/clarens-nature-reserve.md) (Running, Walking, Hiking, Cycling)
+
 ### Gauteng
 
 - [Cradle Moon](trails/gauteng/cradle-moon.md) (Running, Walking, Hiking, Cycling, Swimming)
